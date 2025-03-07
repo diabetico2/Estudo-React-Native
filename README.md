@@ -1,4 +1,6 @@
-![](thumbnail.png)
+Esse projeto foi feito apenas para estudo do projeto do autor original: https://github.com/viniciosneves
+
+Projeto original, todos os direitos ao autor: https://github.com/viniciosneves/4462-fokus-react-native
 
 # Pomodoro App
 
